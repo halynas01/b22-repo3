@@ -6,3 +6,5 @@ We just published our local git repository to remote GitHub.com repository.
 Now our work will continue locally
 
 locally -> remote 
+
+Command + S
