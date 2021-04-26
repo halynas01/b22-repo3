@@ -10,3 +10,5 @@ locally -> remote
 Command + S
 
 we do not push one commit at a time
+
+we can push multiple commits in one shot 
