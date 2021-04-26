@@ -8,3 +8,5 @@ Now our work will continue locally
 locally -> remote 
 
 Command + S
+
+we do not push one commit at a time
