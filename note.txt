@@ -2,3 +2,7 @@ We just published our local git repository to remote GitHub.com repository.
 1. It automatically created new Remote Repo under your GitHub.com account
 2. Made the connection with your local git repository 
 3. Add all your commits to remote repo. 
+
+Now our work will continue locally
+
+locally -> remote 
